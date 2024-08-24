@@ -1,0 +1,25 @@
+h1 {
+    color: red;
+    font-family: "Garamond", Times, serif;
+}
+
+h2 {
+    color: green;
+    font-family: "Times New Roman", Times, serif;
+}
+
+ul ol li {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.recipe_list {
+    color: orange;
+}
+
+.ingredients_list {
+    color: purple;
+}
+
+.steps_list {
+    color: teal;
+}
