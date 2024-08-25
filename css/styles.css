@@ -23,3 +23,37 @@ ul ol li {
 .steps_list {
     color: teal;
 }
+
+.title {
+    background: whitesmoke;
+    border: 3px solid orangered;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    font-size: 20px;
+    width: 750px;
+    height: auto;
+}
+
+.picture {
+    display: block;
+    border: 2px solid black;
+    padding: 0;
+    margin: 0 auto;
+    text-align: center;
+    width: 600px; /* Potential issue, this generic picture container style's width and height are hard-coded for the watermelon-salad picture */
+    height: 900px;
+}
+
+.body {
+    display: inline-block;
+    border: 1px solid black;
+    text-align: left;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
